@@ -6,12 +6,14 @@ class ChattyStudent < Student
     super
       "gobbilty gook"
     end
+  end
   
   
   def raise_hand
     super
       'hello'
     end
+  end
   
   
 end
